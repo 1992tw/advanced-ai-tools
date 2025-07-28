@@ -1,0 +1,35 @@
+{
+  "id": "6887be6f298d917051e1b276",
+  "title": "Advanced AI Tools",
+  "description": "This course dives deep into the current advanced tools used in artificial intelligence, providing students with an understanding of the practical applications of these tools.",
+  "learningObjectives": [
+    "Grasp the fundamental concepts of advanced AI tools",
+    "Apply the AI tools in various machine learning algorithms",
+    "Understand real-world applications and limitations of artificial intelligence",
+    "Become proficient in designing, building and deploying AI models"
+  ],
+  "finalProjectDetails": {
+    "overview": "For the final project, students will demonstrate their understanding of the topics covered in the course by designing and implementing an AI model using one of the AI tools discussed.",
+    "planningResources": [
+      "Project Proposal Template",
+      "Best practices for using the chosen AI tool",
+      "Report Writing Guide",
+      "Project Presentation Tips"
+    ],
+    "submissionInstructions": "Submit your project via the course portal. Your submission should include your code, a detailed report, and any supporting documentation.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/1992tw/advanced-ai-tools",
+  "createdAt": "2025-07-28T18:16:15.074Z",
+  "updatedAt": "2025-07-28T18:16:15.074Z",
+  "lessonCount": 5
+}
